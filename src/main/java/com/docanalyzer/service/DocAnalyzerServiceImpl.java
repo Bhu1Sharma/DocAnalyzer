@@ -1,3 +1,5 @@
+package com.docanalyzer.service;
+
 import java.io.File;
 
 public class DocAnalyzerServiceImpl implements DocAnalyzerService {
